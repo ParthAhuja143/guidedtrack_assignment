@@ -1,0 +1,16 @@
+{
+  "name": "guidedtrack_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha dependencyResolver.test.js",
+    "start": "node index.js text.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
+}
